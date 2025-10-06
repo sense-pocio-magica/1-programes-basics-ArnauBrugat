@@ -18,6 +18,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Com et dius?");
+        string nom = Console.ReadLine();
+        Console.WriteLine("I el teu cognom?");
+        string cognom = Console.ReadLine();
+        Console.WriteLine($"Em dic {cognom}, {nom} {cognom}");
     }
 }

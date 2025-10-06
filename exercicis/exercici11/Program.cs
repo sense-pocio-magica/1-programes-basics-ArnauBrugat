@@ -1,10 +1,16 @@
-﻿namespace exercici11;
+﻿namespace exercici10;
 
-// A partir de dues variables (nom d'usuari i domini), crea i imprimeix una adreça de correu electrònic completa.
+/* Declara dues variables: una per al nom i una altra per l’any de naixement. 
+Combina-les per crear una contrasenya bàsica (per exemple, Pere i 1982 -> Pere1982). 
+Imprimeix la contrasenya generada (i sobretot no la facis servir mai que és molt dolenta) */
+
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string nom = "Pere";
+        int anyNaixement = 1982;
+        string contrasenya = nom + anyNaixement;
+        Console.WriteLine($"La contrasenya generada és: {contrasenya}");
     }
 }
