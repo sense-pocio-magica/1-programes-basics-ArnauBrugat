@@ -7,6 +7,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        int CostatCuadrat = 14;
+        int Perimetre = CostatCuadrat * 4;
+        Console.WriteLine($"El perimetre del cuadrat amb els costats de {CostatCuadrat} cm, és {Perimetre}");
     }
 }

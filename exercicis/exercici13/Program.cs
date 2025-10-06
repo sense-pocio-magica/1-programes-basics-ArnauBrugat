@@ -17,6 +17,21 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Entra la data sense formatar: ");
+        string dataSenseFormatar = Console.ReadLine();
+
+        if (dataSenseFormatar.Length == 8)
+        {
+            string dia = dataSenseFormatar.Substring(0, 2);
+            string mes = dataSenseFormatar.Substring(2, 2);
+            string any = dataSenseFormatar.Substring(4, 4);
+
+            string dataFormatada = $"{dia}/{mes}/{any}";
+            Console.WriteLine($"La data és {dataFormatada}");
+        }
+        else
+        {
+            Console.WriteLine("Error: La data ha de tenir 8 dígits.");
+        }
     }
 }
