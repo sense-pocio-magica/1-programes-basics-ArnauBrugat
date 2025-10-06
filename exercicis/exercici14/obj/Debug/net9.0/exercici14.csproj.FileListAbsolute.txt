@@ -1,0 +1,15 @@
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\bin\Debug\net9.0\exercici14.exe
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\bin\Debug\net9.0\exercici14.deps.json
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\bin\Debug\net9.0\exercici14.runtimeconfig.json
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\bin\Debug\net9.0\exercici14.dll
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\bin\Debug\net9.0\exercici14.pdb
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\obj\Debug\net9.0\exercici14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\obj\Debug\net9.0\exercici14.AssemblyInfoInputs.cache
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\obj\Debug\net9.0\exercici14.AssemblyInfo.cs
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\obj\Debug\net9.0\exercici14.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\obj\Debug\net9.0\exercici14.sourcelink.json
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\obj\Debug\net9.0\exercici14.dll
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\obj\Debug\net9.0\refint\exercici14.dll
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\obj\Debug\net9.0\exercici14.pdb
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\obj\Debug\net9.0\exercici14.genruntimeconfig.cache
+C:\Users\Usuari\Desktop\Programacion\Exercicis1\1-programes-basics-ArnauBrugat\exercicis\exercici14\obj\Debug\net9.0\ref\exercici14.dll

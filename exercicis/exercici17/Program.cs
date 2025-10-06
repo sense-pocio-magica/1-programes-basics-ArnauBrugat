@@ -15,6 +15,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Introdueix un número real: ");
+        double numeroLleig = double.Parse(Console.ReadLine());
+        double nombreMeravellos = numeroLleig - Math.Truncate(numeroLleig);
+        Console.WriteLine($"El nombre meravellós és: {nombreMeravellos}");
     }
 }

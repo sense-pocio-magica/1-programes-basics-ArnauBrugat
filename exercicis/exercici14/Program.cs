@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string paraula = "Programacio";
+        string paraula = "Arnau";
         char primeraLletra = paraula[0];
         char ultimaLletra = paraula[paraula.Length - 1];
         char lletraDelMig = paraula[paraula.Length / 2];
